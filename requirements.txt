@@ -1,0 +1,5 @@
+numpy
+saeborn
+matplotlib
+pandas
+scikit-learn
